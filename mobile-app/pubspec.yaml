@@ -1,0 +1,11 @@
+name: smart_reminder_app
+description: A minimal Flutter app placeholder for Smart Reminder
+publish_to: 'none'
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
